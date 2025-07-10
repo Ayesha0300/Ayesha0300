@@ -14,7 +14,7 @@
 - 🎓 **Certified Agentic & Robotic AI Engineer** from *Panaversity*  
 - 🌟 Building intelligent, multi-agent, cloud-native systems
 - 💻 **Software Engineer** specializing in AI Systems & UI/UX Design
--   **My page** https://preview--devops-minds.lovable.app/
+- 🔗 My page: [**Ayesha Bashir Page**](https://preview--devops-minds.lovable.app/)
 - 🔗 Portfolio: [**Ayesha Bashir Portfolio**](https://v0-modern-portfolio-website-delta-umber.vercel.app/)  
 - 📬 Reach me at: *ayeshabashir0300@gmail.com* 
 - 🚀 Passionate about AI-powered education & scalable architecture
