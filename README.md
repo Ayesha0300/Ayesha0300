@@ -1,9 +1,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=28&duration=4000&pause=500&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A8+Hey%2C+I%27m+Ayesha+Bashir+%E2%9C%A8;%E2%9C%A8+Agentic+AI+%26+Software+Engineer+%E2%9C%A8;%E2%9C%A8+Building+Intelligent+Systems+%26+Beautiful+UIs+%E2%9C%A8;%E2%9C%A8+OpenAI+Agents+%26+MCP+Server+Developer+%E2%9C%A8)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+I'm+Ayesha+Bashir%E2%9C%A8;%E2%9C%A8Software+Engineer+%7C+Agentic+AI+Autonomous+Developer%E2%9C%A8;%E2%9C%A8Building+Intelligent+Systems+%26+Beautiful+UIs%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayesha0300&label=Profile%20views&color=CA0AB3&style=flat" alt="Ayesha0300" /> </p>---
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Ayesha0300&label=Profile%20views&color=CA0AB3&style=flat" alt="Ayesha0300" /> 
+</p>
+
 
 </div>
 
