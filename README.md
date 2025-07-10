@@ -3,11 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=28&duration=4000&pause=500&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A8+Hey%2C+I%27m+Ayesha+Bashir+%E2%9C%A8;%E2%9C%A8+Agentic+AI+%26+Software+Engineer+%E2%9C%A8;%E2%9C%A8+Building+Intelligent+Systems+%26+Beautiful+UIs+%E2%9C%A8;%E2%9C%A8+OpenAI+Agents+%26+MCP+Server+Developer+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayesha0300&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ayesha0300?label=Followers&style=for-the-badge&color=6366F1" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ayesha0300?label=Stars&style=for-the-badge&color=6366F1" alt="GitHub Stars" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayesha0300&label=Profile%20views&color=CA0AB3&style=flat" alt="Ayesha0300" /> </p>---
 
 </div>
 
