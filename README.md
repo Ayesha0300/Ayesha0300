@@ -27,6 +27,7 @@
 - 📖 **Documentation**: [Ayesha Bashir Page](https://preview--devops-minds.lovable.app/)
 - 🌐 **Portfolio**: [View My Work](https://v0-modern-portfolio-website-delta-umber.vercel.app/)
 - 📧 **Email**: ayeshabashir0300@gmail.com
+- https://zarbehaq.com/?s=
 
 <br clear="right"/>
 
