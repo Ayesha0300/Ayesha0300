@@ -27,7 +27,12 @@
 - 📖 **Documentation**: [Ayesha Bashir Page](https://preview--devops-minds.lovable.app/)
 - 🌐 **Portfolio**: [View My Work](https://v0-modern-portfolio-website-delta-umber.vercel.app/)
 - 📧 **Email**: ayeshabashir0300@gmail.com
-- https://zarbehaq.com/?s=
+- Website: www.zarbehaq.com www.zarbehaq.tv
+- Youtube Channel: ZARBEHAQ TV
+- Facebook Page: ZARBEHAQ  Nawishta E Diwar
+- Twitter: ZARBEHAQ
+- Instagram: Nawishta E Diwar
+- Gmail: zarbehaq.com@gmail.com
 
 <br clear="right"/>
 
